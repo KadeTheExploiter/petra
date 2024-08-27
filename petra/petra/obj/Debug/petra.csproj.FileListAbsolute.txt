@@ -1,0 +1,10 @@
+C:\Users\kade\source\repos\petra\petra\bin\Debug\petra.exe.config
+C:\Users\kade\source\repos\petra\petra\bin\Debug\petra.exe
+C:\Users\kade\source\repos\petra\petra\bin\Debug\petra.pdb
+C:\Users\kade\source\repos\petra\petra\obj\Debug\petra.csproj.AssemblyReference.cache
+C:\Users\kade\source\repos\petra\petra\obj\Debug\petra.Form1.resources
+C:\Users\kade\source\repos\petra\petra\obj\Debug\petra.Properties.Resources.resources
+C:\Users\kade\source\repos\petra\petra\obj\Debug\petra.csproj.GenerateResource.cache
+C:\Users\kade\source\repos\petra\petra\obj\Debug\petra.csproj.CoreCompileInputs.cache
+C:\Users\kade\source\repos\petra\petra\obj\Debug\petra.exe
+C:\Users\kade\source\repos\petra\petra\obj\Debug\petra.pdb
